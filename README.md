@@ -43,10 +43,15 @@
 
 ---
 
+## 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tigin-T-om&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+---
+
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tigintom2003)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github&logoColor=white)](https://tigin-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:tigintom158@gmail.com)
 
 ---
 
