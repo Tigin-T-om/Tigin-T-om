@@ -7,9 +7,9 @@
 ---
 
 ## 📈 GitHub Highlights
-- 🔭 Currently working on [DeskDelight](https://github.com/Tigin-T-om/DeskDelight).
-- 🌱 Learning advanced concepts in React and Node.js.
-- 🤝 Open to collaborations on innovative projects.
+- 🔭 Currently working on [E-Vote Hub](https://github.com/Tigin-T-om/E-Vote-Hub.git).
+- 🌱 Learning advanced concepts in React and Node.js and Cybersecurity.
+- 🤝 Open to collaborating on web development, ethical hacking, and innovative software projects.
 
 ---
 
@@ -17,9 +17,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -41,7 +41,7 @@
 ## 🚀 Featured Projects
 ### [🎥 Movie Ticket Booking System](https://github.com/Tigin-T-om/Movie_ticket)
 - A web application for seamless movie ticket booking.
-- **Technologies**: React, Node.js, MongoDB
+- **Technologies**: HTML, CSS, js, PHP
 
 ### [🌐 Personal Portfolio](https://github.com/Tigin-T-om/Portfolio)
 - My portfolio website showcasing my skills and projects.
@@ -49,7 +49,7 @@
 
 ### [💼 DeskDelight](https://github.com/Tigin-T-om/DeskDelight)
 - Desk reservation system for co-working spaces.
-- **Technologies**: Python, Flask, SQLite
+- **Technologies**: Python, Djanngo, SQLite
 
 ---
 
@@ -70,9 +70,9 @@
 ---
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tigintom2003)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github&logoColor=white)](https://tigin-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:tigintom158@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tigintom2003)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white)](https://tigin-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tigintom158@gmail.com)
 
 ---
 
