@@ -54,8 +54,8 @@
 ---
 
 ## 📊 Stats & Contributions
-![Tigin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tigin-T-om&show_icons=true&theme=radical&card_width=350&card_height=350)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tigin-T-om&layout=compact&theme=radical&card_width=350&card_height=350)](https://github.com/Tigin-T-om)
+![Tigin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tigin-T-om&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tigin-T-om&layout=compact&theme=radical)](https://github.com/Tigin-T-om)
 
 ---
 
