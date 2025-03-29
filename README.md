@@ -23,15 +23,14 @@ I am passionate about learning and growing in the field of **software developmen
 ![Separator](assets/borderseperator.gif)
 
 ## 📚 Coding Profiles & Portfolio  
-🔹 [LeetCode Profile](https://leetcode.com/u/Tigin-Tom/)  
-🔹 [HackerRank Profile](https://www.hackerrank.com/profile/tigintom158)  
-🔹 [My Portfolio](https://github.com/Tigin-T-om/Portfolio)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Tigin-Tom/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tigintom158)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Tigin-T-om/Portfolio)   
 
 ![Separator](assets/borderseperator.gif)
 
-## 💻 Tech Stack & Skills
+## 💻 Tech Stack & Skills  
 
-### 🖥️ Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -40,18 +39,10 @@ I am passionate about learning and growing in the field of **software developmen
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![Separator](assets/borderseperator.gif)
-
-### 🎨 Frontend & Styling
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![Separator](assets/borderseperator.gif)
-
-### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -60,8 +51,8 @@ I am passionate about learning and growing in the field of **software developmen
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-
 ![Separator](assets/borderseperator.gif)
+
 
 ## 🚀 Featured Projects
 ### [🎥 Movie Ticket Booking System](https://github.com/Tigin-T-om/Movie_ticket)
@@ -79,18 +70,20 @@ I am passionate about learning and growing in the field of **software developmen
 ![Separator](assets/borderseperator.gif)
 
 ## 📊 Stats & Contributions
-![Tigin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tigin-T-om&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&card_width=500)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tigin-T-om&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=500)](https://github.com/Tigin-T-om)
+![Tigin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tigin-T-om&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&card_width=500)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tigin-T-om&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=500)](https://github.com/Tigin-T-om)
 
 ![Separator](assets/borderseperator.gif)
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tigin-T-om&theme=tokyonight-duo&short_numbers=true&card_width=500&currStreakNum=2BEB2D&ring=18EBBD&border=C3A8EB&fire=EB8100&stroke=183FEB&sideLabels=50EB71&dates=28D5EB&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tigin-T-om&theme=github-dark-green&hide_border=true&border_radius=5&card_width=500)](https://git.io/streak-stats)
 
 ![Separator](assets/borderseperator.gif)
 
 ## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tigin-T-om&theme=onedark&no-frame=true&margin-w=10&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tigin-T-om&theme=gitdimmed&no-frame=true&margin-w=15&column=5)
+
 
 ![Separator](assets/borderseperator.gif)
 
@@ -101,27 +94,27 @@ I am passionate about learning and growing in the field of **software developmen
 
 ## 🌐 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/tigintom2003" target="_blank">
+  <a href="https://www.linkedin.com/in/tigintom/" target="_blank">
     <img src="assets/linkedinlogo.png" alt="LinkedIn" width="40px"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Tigin-T-om" target="_blank">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/Tigin-T-om" target="_blank">
     <img src="assets/githublogo.png" alt="GitHub" width="40px"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:tigintom158@gmail.com">
+  <a href="mailto:tigintomelanji@gmail.com">
     <img src="assets/gmailogo.png" alt="Gmail" width="40px"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/your-discord-id">
+  <a href="https://discord.com/users/tom_tigin">
     <img src="assets/discordlogo.png" alt="Discord" width="40px"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://codepen.io/your-codepen">
+  <a href="https://codepen.io/Tigin-Tom">
     <img src="assets/codepenlogo.png" alt="CodePen" width="40px"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://dev.to/your-devto">
+  <a href="https://dev.to/tigin_tom_855930423c238b7">
     <img src="assets/devtologo.png" alt="Dev.to" width="40px"/>
   </a>
 </p>
