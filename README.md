@@ -73,11 +73,39 @@
 ![Separator](assets/borderseperator.gif)
 
 ## 🌐 Let's Connect
-[![LinkedIn](assets/linkedinlogo.png)](https://www.linkedin.com/in/tigintom2003)
-[![GitHub](assets/githublogo.png)](https://github.com/Tigin-T-om)
-[![Gmail](assets/gmailogo.png)](mailto:tigintom158@gmail.com)
-[![Discord](assets/discordlogo.png)](https://discord.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white)](https://tigin-portfolio.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/tigintom2003" target="_blank">
+    <img src="assets/linkedinlogo.png" alt="LinkedIn" width="40px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Tigin-Tom/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="40px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/tigintom158" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="40px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Tigin-T-om" target="_blank">
+    <img src="assets/githublogo.png" alt="GitHub" width="40px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tigintom158@gmail.com">
+    <img src="assets/gmailogo.png" alt="Gmail" width="40px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/your-discord-id">
+    <img src="assets/discordlogo.png" alt="Discord" width="40px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codepen.io/your-codepen">
+    <img src="assets/codepenlogo.png" alt="CodePen" width="40px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/your-devto">
+    <img src="assets/devtologo.png" alt="Dev.to" width="40px"/>
+  </a>
+</p>
 
 ![Separator](assets/borderseperator.gif)
 
