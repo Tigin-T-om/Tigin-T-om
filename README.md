@@ -1,4 +1,4 @@
-# Hi there, I'm Tigin T Tom! 👋
+# Hi there, I'm Tigin Tom! 👋
 
 ![Lofi City](assets/loficity.gif)
 
@@ -23,9 +23,19 @@ I am passionate about learning and growing in the field of **software developmen
 ![Separator](assets/borderseperator.gif)
 
 ## 📚 Coding Profiles & Portfolio  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Tigin-Tom/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tigintom158)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Tigin-T-om/Portfolio)   
+<p align="left">
+  <a href="https://leetcode.com/u/Tigin-Tom/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/tigintom158" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Tigin-T-om/Portfolio" target="_blank">
+    <img src="assets/adobe-portfolio.svg" alt="Portfolio" width="40px"/>
+  </a>
+</p>  
 
 ![Separator](assets/borderseperator.gif)
 
@@ -95,29 +105,30 @@ I am passionate about learning and growing in the field of **software developmen
 ## 🌐 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/tigintom/" target="_blank">
-    <img src="assets/linkedinlogo.png" alt="LinkedIn" width="40px"/>
+    <img src="assets/linkedinlogo.png" alt="LinkedIn" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://profile-summary-for-github.herokuapp.com/user/Tigin-T-om" target="_blank">
-    <img src="assets/githublogo.png" alt="GitHub" width="40px"/>
+    <img src="assets/githublogo.png" alt="GitHub" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:tigintomelanji@gmail.com">
-    <img src="assets/gmailogo.png" alt="Gmail" width="40px"/>
+    <img src="assets/gmailogo.png" alt="Gmail" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/tom_tigin">
-    <img src="assets/discordlogo.png" alt="Discord" width="40px"/>
+    <img src="assets/discordlogo.png" alt="Discord" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://codepen.io/Tigin-Tom">
-    <img src="assets/codepenlogo.png" alt="CodePen" width="40px"/>
+    <img src="assets/codepenlogo.png" alt="CodePen" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://dev.to/tigin_tom_855930423c238b7">
-    <img src="assets/devtologo.png" alt="Dev.to" width="40px"/>
+    <img src="assets/devtologo.png" alt="Dev.to" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
   </a>
 </p>
+
 
 ![Separator](assets/borderseperator.gif)
 
