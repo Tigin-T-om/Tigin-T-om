@@ -1,17 +1,20 @@
 # Hi there, I'm Tigin T Tom! 👋
 
+![Lofi City](assets/loficity.gif)
+
+
 🎓 **MCA Student | Marian College Kuttikkanam**  
 💻 **Full-Stack Developer | Open-Source Enthusiast**  
 🌟 **Passionate about creating impactful software solutions.**
 
----
+![Separator](assets/borderseperator.gif)
 
 ## 📈 GitHub Highlights
 - 🔭 Currently working on [E-Vote Hub](https://github.com/Tigin-T-om/E-Vote-Hub.git).
 - 🌱 Learning advanced concepts in React and Node.js and Cybersecurity.
 - 🤝 Open to collaborating on web development, ethical hacking, and innovative software projects.
 
----
+![Separator](assets/borderseperator.gif)
 
 ## 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -51,29 +54,31 @@
 - Desk reservation system for co-working spaces.
 - **Technologies**: Python, Djanngo, SQLite
 
----
+![Separator](assets/borderseperator.gif)
 
 ## 📊 Stats & Contributions
 ![Tigin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tigin-T-om&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tigin-T-om&layout=compact&theme=radical)](https://github.com/Tigin-T-om)
 
----
+![Separator](assets/borderseperator.gif)
 
 ## 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tigin-T-om&theme=hacker&hide_border=true&border_radius=4&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
 
----
+![Separator](assets/borderseperator.gif)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
+![Separator](assets/borderseperator.gif)
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tigintom2003)
+[![LinkedIn](assets/linkedinlogo.png)](https://www.linkedin.com/in/tigintom2003)
+[![GitHub](assets/githublogo.png)](https://github.com/Tigin-T-om)
+[![Gmail](assets/gmailogo.png)](mailto:tigintom158@gmail.com)
+[![Discord](assets/discordlogo.png)](https://discord.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white)](https://tigin-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tigintom158@gmail.com)
 
----
+![Separator](assets/borderseperator.gif)
 
 🙌 Thank you for visiting my profile! Feel free to explore and connect with me.
