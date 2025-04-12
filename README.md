@@ -80,12 +80,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tigin-T-om&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/Tigin-T-om)
 </details>
 
-<<<<<<< HEAD
 ---
-=======
-## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats-lemon-eight-58.vercel.app?user=Tigin-T-om&theme=radical&fire=FFAB00)](https://git.io/streak-stats)
->>>>>>> a7cd4644c68f1c637951ac30f6c846565434e1a0
 
 ## 🔥 GitHub Streak
 
