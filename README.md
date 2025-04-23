@@ -87,12 +87,12 @@ I am passionate about learning and growing in the field of **software developmen
 ![Separator](assets/borderseperator.gif)
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tigin-T-om&theme=tokyonight-duo&short_numbers=true&fire=EB7803)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-d09fg5qnf-tigin-toms-projects.vercel.app?user=Tigin-T-om&theme=tokyonight&hide_border=true&fire=EB7803)](https://git.io/streak-stats)
 
 ![Separator](assets/borderseperator.gif)
 
 ## 🏆 GitHub Trophies  
-[![GitHub Streak](https://github-readme-streak-stats-d09fg5qnf-tigin-toms-projects.vercel.app?user=Tigin_T_om&theme=tokyonight&hide_border=true&fire=EB7803)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tigin-T-om&theme=gruvbox&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![Separator](assets/borderseperator.gif)
