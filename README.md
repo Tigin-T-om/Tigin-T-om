@@ -10,7 +10,7 @@
 I am passionate about learning and growing in the field of **software development and cybersecurity**. While I am still exploring **full-stack development**, I am eager to dive deep into both **frontend and backend technologies**. 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tigin-T-om&label=Profile%20Views&color=blue&style=flat)
-
+ 
 ![Separator](assets/borderseperator.gif)
 
 ## 📈 GitHub Highlights  
