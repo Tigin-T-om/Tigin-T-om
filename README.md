@@ -35,7 +35,7 @@ I am passionate about learning and growing in the field of **software developmen
   <a href="https://github.com/Tigin-T-om/Portfolio" target="_blank">
     <img src="assets/adobe-portfolio.svg" alt="Portfolio" width="40px"/>
   </a>
-</p>  
+</p>   
 
 ![Separator](assets/borderseperator.gif)
 
