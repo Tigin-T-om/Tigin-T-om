@@ -93,7 +93,8 @@ I am passionate about learning and growing in the field of **software developmen
 ![Separator](assets/borderseperator.gif)
 
 ## 🏆 GitHub Trophies  
-![Trophy](https://github-profile-trophy.vercel.app/?username=Tigin-T-om&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tigin-T-om&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Separator](assets/borderseperator.gif)
 
