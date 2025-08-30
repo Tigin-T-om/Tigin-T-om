@@ -87,7 +87,7 @@ I am passionate about learning and growing in the field of **software developmen
 ![Separator](assets/borderseperator.gif)
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats-87rbvtwo7-tigin-toms-projects.vercel.app?user=Tigin-T-om&theme=tokyonight-duo&hide_border=true&short_numbers=true&fire=EB5700)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-streak-stats-rho.vercel.app?user=Tigin-T-om&theme=tokyonight&hide_border=true&short_numbers=true&fire=EB8013)](https://git.io/streak-stats)
 
 
 ![Separator](assets/borderseperator.gif)
