@@ -6,7 +6,7 @@
 💻 **Aspiring AI/ML Engineer & Full-Stack Developer**
 🌟 **Building and deploying end-to-end AI and web solutions.**
 
-I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine Learning**, and full-stack web development using **Django** and **Flask**. [cite_start]I'm focused on creating scalable, data-driven applications, from secure backend services to user-friendly front-end interfaces[cite: 4, 5, 6]. [cite_start]My current focus is on advancing my skills in **LLMs** and **deep learning frameworks** to build impactful AI solutions[cite: 43, 44].
+I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine Learning**, and full-stack web development using **Django** and **Flask**. I'm focused on creating scalable, data-driven applications, from secure backend services to user-friendly front-end interfaces. My current focus is on advancing my skills in **LLMs** and **deep learning frameworks** to build impactful AI solutions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tigin-T-om&label=Profile%20Views&color=blue&style=flat)
  
@@ -14,9 +14,9 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
 
 ## 🎯 Focus & Highlights
 
-- [cite_start]🧠 Currently focused on **RAG-based systems** and **LLM deployment** with **LLaMA2/Llama 3**[cite: 50, 60].
-- [cite_start]💡 Experienced in developing backend services with **Django** and **Flask**, and integrating **RESTful APIs**[cite: 5, 9].
-- [cite_start]📈 Built a **Multi-Model ML Prediction Platform** and a **PDF Summarizer & Insight Extractor**[cite: 60, 64].
+- 🧠 Currently focused on **RAG-based systems** and **LLM deployment** with **LLaMA2/Llama 3**.
+- 💡 Experienced in developing backend services with **Django** and **Flask**, and integrating **RESTful APIs**.
+- 📈 Built a **Multi-Model ML Prediction Platform** and a **PDF Summarizer & Insight Extractor**.
 - 🌐 Open to learning and collaboration opportunities in **AI/ML Engineering** and **Python Development**.
 
 ![Separator](assets/borderseperator.gif)
@@ -72,19 +72,19 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
 <br/>
 
 ### [📄 PDF Summarizer & Insight Extractor with Chatbot](https://github.com/Tigin-T-om/PDF-Summarizer-with-LLM)
-- [cite_start]Built a **RAG-based system** for querying and summarizing multiple PDFs using **LLaMA2** (Ollama)[cite: 60].
-- [cite_start]Features: Interactive **Streamlit** UI for chat-based Q&A and AI-driven summarization[cite: 62].
-- [cite_start]**Tech Stack**: Python, Streamlit, LLaMA2, FAISS, PyMuPDF[cite: 63].
+- Built a **RAG-based system** for querying and summarizing multiple PDFs using **LLaMA2** (Ollama).
+- Features: Interactive **Streamlit** UI for chat-based Q&A and AI-driven summarization.
+- **Tech Stack**: Python, Streamlit, LLaMA2, FAISS, PyMuPDF.
 
 ### [🧠 Predictfy- Multi-Model ML Prediction Platform](https://github.com/Tigin-T-om/Predictfy)
-- [cite_start]An interactive web app integrating 5 ML models (Linear, Polynomial, KNN, Logistic Regressions) for various predictions[cite: 66].
-- [cite_start]Designed a single-page UI using **Flask** for accessible deployment and predictions[cite: 67, 68].
-- [cite_start]**Tech Stack**: Python (scikit-learn, NumPy, Pandas), Flask, HTML, CSS, JavaScript[cite: 68].
+- An interactive web app integrating 5 ML models (Linear, Polynomial, KNN, Logistic Regressions) for various predictions.
+- Designed a single-page UI using **Flask** for accessible deployment and predictions.
+- **Tech Stack**: Python (scikit-learn, NumPy, Pandas), Flask, HTML, CSS, JavaScript.
 
 ### [🗳️ Campus Vote-Hub- College Online Voting Platform](https://github.com/Tigin-T-om/Campus-Vote-Hub)
-- [cite_start]Developed a secure online voting platform with student authentication and role-based access[cite: 16].
-- [cite_start]Implemented voting workflows and real-time result computation with a **Django** backend[cite: 17, 18].
-- [cite_start]**Tech Stack**: Django, HTML, CSS, JavaScript, MySQL/SQLite[cite: 18].
+- Developed a secure online voting platform with student authentication and role-based access.
+- Implemented voting workflows and real-time result computation with a **Django** backend.
+- **Tech Stack**: Django, HTML, CSS, JavaScript, MySQL/SQLite.
 </details>
 
 ![Separator](assets/borderseperator.gif)
