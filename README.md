@@ -90,9 +90,7 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
 ![Separator](assets/borderseperator.gif)
 
 <details>
-  <summary><h2>📊 Stats and Activity</h2></summary>
-
-  <br/>
+  <summary><h1>📊 Stats and Activity</h1></summary>
 
   ## 📊 Stats & Contributions
   <p align="center">
