@@ -90,9 +90,12 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
 ![Separator](assets/borderseperator.gif)
 
 <details>
-  <summary><h1>📊 Stats and Activity</h1></summary>
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
-  ## 📊 Stats & Contributions
+  <br/>
+
+  <p align="center"><strong>📈 Stats & Contributions</strong></p>
+
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Tigin-T-om&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&card_width=500" alt="Tigin's GitHub stats" />
   </p>
@@ -105,7 +108,8 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
 
   ![Separator](assets/borderseperator.gif)
 
-  ## 🔥 Streak Stats
+  <p align="center"><strong>🔥 Streak Stats</strong></p>
+
   <p align="center">
     <a href="https://git.io/streak-stats">
       <img src="https://github-streak-stats-blue.vercel.app?user=Tigin-T-om&theme=tokyonight&fire=EB7F12" alt="GitHub Streak" />
@@ -114,12 +118,14 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
 
   ![Separator](assets/borderseperator.gif)
 
-  ## 🏆 GitHub Trophies
+  <p align="center"><strong>🏆 GitHub Trophies</strong></p>
+
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=Tigin-T-om&theme=onedark" alt="trophy" />
     </a>
   </p>
+  
 </details>
 
 ![Separator](assets/borderseperator.gif)
