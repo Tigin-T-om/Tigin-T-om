@@ -97,7 +97,7 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
 ![Separator](assets/borderseperator.gif)
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-streak-stats-rho.vercel.app?user=Tigin-T-om&theme=tokyonight&hide_border=true&short_numbers=true&fire=EB8013)](https://github.com/Tigin-T-om/github-streak-stats)
+[![GitHub Streak](https://github-streak-stats-1fbtof8ve-tigin-toms-projects.vercel.app?user=Tigin-T-om&theme=tokyonight&hide_border=true&fire=EBB00A)](https://git.io/streak-stats)
 
 ![Separator](assets/borderseperator.gif)
 
