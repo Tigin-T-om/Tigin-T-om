@@ -90,7 +90,7 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
 ![Separator](assets/borderseperator.gif)
 
 <details>
-  <summary style="font-size:18px; font-weight:600;">📊 Stats and Activity</summary>
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
   <br/>
 
@@ -122,9 +122,6 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
       <img src="https://github-profile-trophy.vercel.app/?username=Tigin-T-om&theme=onedark" alt="trophy" />
     </a>
   </p>
-
-  ![Separator](assets/borderseperator.gif)
-
 </details>
 
 ![Separator](assets/borderseperator.gif)
