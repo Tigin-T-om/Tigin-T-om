@@ -2,19 +2,19 @@
 
 ![Lofi City](assets/loficity.gif)
 
-🎓 **MCA Candidate | Marian College Kuttikkanam**
-💻 **Aspiring AI/ML Engineer & Full-Stack Developer**
+🎓 **MCA Candidate | Marian College Kuttikkanam**  
+💻 **Aspiring AI/ML Engineer & Full-Stack Developer**  
 🌟 **Building and deploying end-to-end AI and web solutions.**
 
 I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine Learning**, and full-stack web development using **Django** and **Flask**. I'm focused on creating scalable, data-driven applications, from secure backend services to user-friendly front-end interfaces. My current focus is on advancing my skills in **LLMs** and **deep learning frameworks** to build impactful AI solutions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tigin-T-om&label=Profile%20Views&color=blue&style=flat)
- 
+
 ![Separator](assets/borderseperator.gif)
 
 ## 🎯 Focus & Highlights
 
-- 🧠 Currently focused on **RAG-based systems** and **LLM deployment** with **LLaMA2/Llama 3**.
+- 🧠 Currently focused on **RAG-based systems** and **LLM deployment** with **LLaMA2 / Llama 3**.
 - 💡 Experienced in developing backend services with **Django** and **Flask**, and integrating **RESTful APIs**.
 - 📈 Built a **Multi-Model ML Prediction Platform** and a **PDF Summarizer & Insight Extractor**.
 - 🌐 Open to learning and collaboration opportunities in **AI/ML Engineering** and **Python Development**.
@@ -31,7 +31,7 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![LLaMA2](https://img.shields.io/badge/LLaMA2-0052CC?style=for-the-badge&logo=llama&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-000?style=for-the-badge&logo=facebook&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -76,12 +76,12 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
 - Features: Interactive **Streamlit** UI for chat-based Q&A and AI-driven summarization.
 - **Tech Stack**: Python, Streamlit, LLaMA2, FAISS, PyMuPDF.
 
-### [🧠 Predictfy- Multi-Model ML Prediction Platform](https://github.com/Tigin-T-om/Predictfy)
+### [🧠 Predictfy - Multi-Model ML Prediction Platform](https://github.com/Tigin-T-om/Predictfy)
 - An interactive web app integrating 5 ML models (Linear, Polynomial, KNN, Logistic Regressions) for various predictions.
 - Designed a single-page UI using **Flask** for accessible deployment and predictions.
 - **Tech Stack**: Python (scikit-learn, NumPy, Pandas), Flask, HTML, CSS, JavaScript.
 
-### [🗳️ Campus Vote-Hub- College Online Voting Platform](https://github.com/Tigin-T-om/Campus-Vote-Hub)
+### [🗳️ Campus Vote-Hub - College Online Voting Platform](https://github.com/Tigin-T-om/Campus-Vote-Hub)
 - Developed a secure online voting platform with student authentication and role-based access.
 - Implemented voting workflows and real-time result computation with a **Django** backend.
 - **Tech Stack**: Django, HTML, CSS, JavaScript, MySQL/SQLite.
@@ -97,34 +97,38 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
 ![Separator](assets/borderseperator.gif)
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-streak-stats-1fbtof8ve-tigin-toms-projects.vercel.app?user=Tigin-T-om&theme=tokyonight&hide_border=true&fire=EBB00A)](https://git.io/streak-stats)
+<!-- Using the working Vercel endpoint you provided -->
+[![GitHub Streak](https://github-streak-stats-rho.vercel.app?user=Tigin-T-om&theme=tokyonight&hide_border=true&fire=EB8F15)](https://git.io/streak-stats)
 
 ![Separator](assets/borderseperator.gif)
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tigin-T-om&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Separator](assets/borderseperator.gif)
 
 ## 🌐 Let's Connect & Code
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/tigintom/" target="_blank">
-    <img src="assets/linkedinlogo.png" alt="LinkedIn" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://my-portfolio-liard-five-14.vercel.app/" target="_blank">
-    <img src="assets/adobe-portfolio.svg" alt="Portfolio" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:tigintomelanji@gmail.com">
-    <img src="assets/gmailogo.png" alt="Gmail" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Tigin-T-om" target="_blank">
-    <img src="assets/githublogo.png" alt="GitHub" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
-  </a>
+  <a href="https://www.linkedin.com/in/tigintom/" target="_blank">
+    <img src="assets/linkedinlogo.png" alt="LinkedIn" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://my-portfolio-liard-five-14.vercel.app/" target="_blank">
+    <img src="assets/adobe-portfolio.svg" alt="Portfolio" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tigintomelanji@gmail.com">
+    <img src="assets/gmailogo.png" alt="Gmail" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Tigin-T-om" target="_blank">
+    <img src="assets/githublogo.png" alt="GitHub" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
+  </a>
 </p>
 
 ***
 
 🙌 Thank you for visiting my profile! Let's build something great.
+
+---
