@@ -97,8 +97,8 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
 ![Separator](assets/borderseperator.gif)
 
 ## 🔥 Streak Stats
-<!-- Using the working Vercel endpoint you provided -->
-[![GitHub Streak](https://github-streak-stats-rho.vercel.app?user=Tigin-T-om&theme=tokyonight&hide_border=true&fire=EB8F15)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-rho.vercel.app?user=Tigin-T-om&theme=tokyonight&fire=EB8F15" alt="GitHub Streak" /></a>
+
 
 ![Separator](assets/borderseperator.gif)
 
@@ -109,26 +109,27 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
 
 ## 🌐 Let's Connect & Code
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/tigintom/" target="_blank">
-    <img src="assets/linkedinlogo.png" alt="LinkedIn" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
+    <img src="assets/linkedinlogo.png" alt="LinkedIn" width="40px" style="margin: 0 10px; vertical-align: middle;"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://my-portfolio-liard-five-14.vercel.app/" target="_blank">
-    <img src="assets/adobe-portfolio.svg" alt="Portfolio" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
+    <img src="assets/portfolio.png" alt="Portfolio" width="40px" style="margin: 0 10px; vertical-align: middle;"/>
   </a>
-  &nbsp;&nbsp;
+  <a href="https://dev.to/tigin_tom_855930423c238b7" target="_blank">
+    <img src="assets/devtologo.png" alt="Dev.to" width="40px" style="margin: 0 10px; vertical-align: middle;"/>
+  </a>
   <a href="mailto:tigintomelanji@gmail.com">
-    <img src="assets/gmailogo.png" alt="Gmail" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
+    <img src="assets/gmailogo.png" alt="Gmail" width="40px" style="margin: 0 10px; vertical-align: middle;"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/Tigin-T-om" target="_blank">
-    <img src="assets/githublogo.png" alt="GitHub" width="40px" style="vertical-align: middle; display: block; margin-bottom: 0;"/>
+    <img src="assets/githublogo.png" alt="GitHub" width="40px" style="margin: 0 10px; vertical-align: middle;"/>
   </a>
 </p>
 
-***
+
+![Separator](assets/borderseperator.gif)
 
 🙌 Thank you for visiting my profile! Let's build something great.
 
----
+![Separator](assets/borderseperator.gif)
