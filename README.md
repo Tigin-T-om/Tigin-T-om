@@ -89,21 +89,43 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
 
 ![Separator](assets/borderseperator.gif)
 
-## 📊 Stats & Contributions
-![Tigin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tigin-T-om&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&card_width=500)
+<details>
+  <summary style="font-size:18px; font-weight:600;">📊 Stats and Activity</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tigin-T-om&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=500)](https://github.com/Tigin-T-om)
+  <br/>
 
-![Separator](assets/borderseperator.gif)
+  ## 📊 Stats & Contributions
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tigin-T-om&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&card_width=500" alt="Tigin's GitHub stats" />
+  </p>
 
-## 🔥 Streak Stats
-<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-rho.vercel.app?user=Tigin-T-om&theme=tokyonight&fire=EB8F15" alt="GitHub Streak" /></a>
+  <p align="center">
+    <a href="https://github.com/Tigin-T-om">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tigin-T-om&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=500" alt="Top languages" />
+    </a>
+  </p>
 
+  ![Separator](assets/borderseperator.gif)
 
-![Separator](assets/borderseperator.gif)
+  ## 🔥 Streak Stats
+  <p align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-streak-stats-blue.vercel.app?user=Tigin-T-om&theme=tokyonight&fire=EB7F12" alt="GitHub Streak" />
+    </a>
+  </p>
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tigin-T-om&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  ![Separator](assets/borderseperator.gif)
+
+  ## 🏆 GitHub Trophies
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=Tigin-T-om&theme=onedark" alt="trophy" />
+    </a>
+  </p>
+
+  ![Separator](assets/borderseperator.gif)
+
+</details>
 
 ![Separator](assets/borderseperator.gif)
 
@@ -111,22 +133,21 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tigintom/" target="_blank">
-    <img src="assets/linkedinlogo.png" alt="LinkedIn" width="40px" style="margin: 0 10px; vertical-align: middle;"/>
+    <img src="assets/linkedinlogo.png" alt="LinkedIn" width="42" height="42" style="margin: 0 12px; vertical-align: middle;"/>
   </a>
   <a href="https://my-portfolio-liard-five-14.vercel.app/" target="_blank">
-    <img src="assets/portfolio.png" alt="Portfolio" width="40px" style="margin: 0 10px; vertical-align: middle;"/>
+    <img src="assets/portfolio.png" alt="Portfolio" width="42" height="42" style="margin: 0 12px; vertical-align: middle; border-radius: 8px;"/>
   </a>
   <a href="https://dev.to/tigin_tom_855930423c238b7" target="_blank">
-    <img src="assets/devtologo.png" alt="Dev.to" width="40px" style="margin: 0 10px; vertical-align: middle;"/>
+    <img src="assets/devtologo.png" alt="Dev.to" width="42" height="42" style="margin: 0 12px; vertical-align: middle;"/>
   </a>
   <a href="mailto:tigintomelanji@gmail.com">
-    <img src="assets/gmailogo.png" alt="Gmail" width="40px" style="margin: 0 10px; vertical-align: middle;"/>
+    <img src="assets/gmailogo.png" alt="Gmail" width="42" height="42" style="margin: 0 12px; vertical-align: middle;"/>
   </a>
   <a href="https://github.com/Tigin-T-om" target="_blank">
-    <img src="assets/githublogo.png" alt="GitHub" width="40px" style="margin: 0 10px; vertical-align: middle;"/>
+    <img src="assets/githublogo.png" alt="GitHub" width="42" height="42" style="margin: 0 12px; vertical-align: middle;"/>
   </a>
 </p>
-
 
 ![Separator](assets/borderseperator.gif)
 
