@@ -94,7 +94,7 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
 
   <br/>
 
-  <p align="center"><strong>📈 Stats & Contributions</strong></p>
+  <p align="center"><h3>📈 Stats & Contributions</h3></p>
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Tigin-T-om&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&card_width=500" alt="Tigin's GitHub stats" />
@@ -108,7 +108,7 @@ I'm a passionate MCA candidate with hands-on experience in **Python**, **Machine
 
   ![Separator](assets/borderseperator.gif)
 
-  <p align="center"><strong>🔥 Streak Stats</strong></p>
+  <p align="center"><h3>🔥 Streak Stats</h3></p>
 
   <p align="center">
     <a href="https://git.io/streak-stats">
