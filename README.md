@@ -97,13 +97,6 @@ I enjoy building practical software projects and continuously improving my devel
   <summary><strong>📊 GitHub Stats</strong></summary>
 
   <p align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tigin-T-om&show_icons=true&theme=github_dark&hide_border=true" />
-
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tigin-T-om&layout=compact&theme=github_dark&hide_border=true" />
-
-  </p>
-
-  <p align="center">
     <img src="https://streak-stats.demolab.com?user=Tigin-T-om&theme=highcontrast" />
   </p>
 
@@ -126,7 +119,7 @@ I enjoy building practical software projects and continuously improving my devel
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" />
   </a>
   
-  <a href="https://my-portfolio-liard-five-14.vercel.app/" target="_blank">
+  <a href="https://tigin-tom.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50" />
   </a>
 </p>
