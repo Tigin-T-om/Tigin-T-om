@@ -12,7 +12,7 @@
 
 I enjoy building practical software projects and continuously improving my development skills through hands-on learning and real-world applications.
 
----
+![Separator](assets/borderseperator.gif)
 
 ## 🎯 Current Focus
 
@@ -21,9 +21,9 @@ I enjoy building practical software projects and continuously improving my devel
 - 📈 Improving problem-solving and software development skills
 - 🌐 Focused on building real-world projects and growing as a developer
 
----
+![Separator](assets/borderseperator.gif)
 
-## 📚 Technical Skills
+## 🛠️ Tech Stack
 
 <details>
 <summary><strong>Expand to see my Tech Stack</strong></summary>
@@ -64,7 +64,7 @@ I enjoy building practical software projects and continuously improving my devel
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+![Separator](assets/borderseperator.gif)
 
 </details>
 
@@ -74,32 +74,37 @@ I enjoy building practical software projects and continuously improving my devel
 <summary><strong>Click to view my projects</strong></summary>
 <br/>
 
-### [💼 Job Tracker AI](https://github.com/Tigin-T-om/PDF-Summarizer-with-LLM)
+### [💼 Job Tracker AI](https://github.com/Tigin-T-om/Job-Tracker-AI)
 
 - AI-powered job tracking platform to manage applications, follow-ups, and interview progress.
 - **Tech Stack:** React, FastAPI, PostgreSQL, Python
 
-### [📄 PDF Summarizer & Insight Extractor with Chatbot](https://github.com/Tigin-T-om/PDF-Summarizer-with-LLM)
+### [📄 PDF Summarizer & Insight Extractor with Chatbot](https://github.com/Tigin-T-om/ai-doc-intelligence)
 
 - RAG-based PDF chatbot and summarizer using local LLMs.
 - **Tech Stack:** Python, Streamlit, LLaMA2, FAISS
 
-### [🗳️ Campus Vote-Hub](https://github.com/Tigin-T-om/Movie_ticket)
+### [🗳️ Campus Vote-Hub](https://github.com/Tigin-T-om/E-Vote-Hub.git)
 
 - Secure online voting platform for colleges with authentication and result management.
 - **Technologies**: Django, HTML, CSS, JavaScript, MySQL/SQLite
 
----
-
 </details>
 
+![Separator](assets/borderseperator.gif)
+
 <details>
-  <summary><h2>📊 GitHub Stats</h2></summary>
+  <summary><strong>📊 GitHub Stats</strong></summary>
 
   <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tigin-T-om&show_icons=true&theme=github_dark&hide_border=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tigin-T-om&show_icons=true&theme=github_dark&hide_border=true" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tigin-T-om&layout=compact&theme=github_dark&hide_border=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tigin-T-om&layout=compact&theme=github_dark&hide_border=true" />
+
+  </p>
+
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=Tigin-T-om&theme=highcontrast" />
   </p>
 
 </details>
@@ -108,24 +113,24 @@ I enjoy building practical software projects and continuously improving my devel
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/tigintom/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" />
   </a>
-
+  
   <a href="mailto:tigintomelanji@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" />
   </a>
-
+  
   <a href="https://github.com/Tigin-T-om" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="48" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" />
   </a>
-
+  
   <a href="https://my-portfolio-liard-five-14.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="48" />
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50" />
   </a>
 </p>
 
----
+![Separator](assets/borderseperator.gif)
 
 🙌 Thank you for visiting my profile! Let's build something great.
