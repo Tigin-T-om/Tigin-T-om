@@ -6,20 +6,22 @@
   <img src="https://komarev.com/ghpvc/?username=Tigin-T-om&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-🎓 MCA Graduate from Marian College Kuttikkanam  
-💻 Full-Stack Developer | Aspiring AI/ML Engineer  
-🚀 Building modern web applications using React, FastAPI, Python, and backend technologies
+🎓 MCA Graduate from Marian College Kuttikkanam
+💻 Aspiring Software Engineer | Python Developer
+🚀 Building projects using React, FastAPI, and backend technologies
+🧠 Interested in AI/ML Engineering and real-world software systems
 
 I enjoy building practical software projects and continuously improving my development skills through hands-on learning and real-world applications.
 
 ![Separator](assets/borderseperator.gif)
 
-## 🎯 Current Focus
+## 📚 Currently Learning
 
-- 🧠 Learning AI/ML engineering and backend system design
-- 💡 Building full-stack applications using React & FastAPI
-- 📈 Improving problem-solving and software development skills
-- 🌐 Focused on building real-world projects and growing as a developer
+- DSA & Problem Solving
+- Backend architecture with FastAPI
+- AI engineering workflows
+- Docker & deployment
+- Scalable full-stack development
 
 ![Separator](assets/borderseperator.gif)
 
@@ -70,7 +72,7 @@ I enjoy building practical software projects and continuously improving my devel
 
 ## 🚀 Featured Projects
 
-<details open>
+<details>
 <summary><strong>Click to view my projects</strong></summary>
 <br/>
 
@@ -125,5 +127,3 @@ I enjoy building practical software projects and continuously improving my devel
 </p>
 
 ![Separator](assets/borderseperator.gif)
-
-🙌 Thank you for visiting my profile! Let's build something great.
